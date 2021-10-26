@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Mod Assignmnet 2</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Lato&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+
+    <div class="head">
+       <h1>Our Menu</h1>
+    </div>
+
+
+    <div class="container">
+
+      <div class="col-lg-4 col-md-6 par">
+        <div class="heading" id="title1">
+          <h3>Sushi</h3>
+        </div>
+        <p>Nulla id condimentum leo. Nam a nisl mattis, mattis turpis a, tristique dui. Nullam aliquam diam
+          sed odio tempus porta.  ut venenatis metus. Praesent varius cursus rhoncus. </p>
+      </div>
+
+      <div class="col-lg-4 col-md-6 par">
+        <div class="heading" id="title2">
+          <h3>Chicken</h3>
+        </div>
+        <p>Nulla id condimentum leo. Nam a nisl mattis, mattis turpis a, tristique dui. Nullam aliquam diam
+          sed odio tempus porta. ut venenatis metus. Praesent varius cursus rhoncus. </p>
+      </div>
+
+      <div class="col-lg-4 col-md-12 par">
+        <div class="heading" id="title3">
+          <h3>Pizza</h3>
+        </div>
+        <p>Nulla id condimentum leo. Nam a nisl mattis, mattis turpis a, tristique dui. Nullam aliquam diam
+          sed odio tempus porta.  ut venenatis metus. Praesent varius cursus rhoncus. </p>
+      </div>
+
+    </div>
+
+
+  </body>
+</html>
